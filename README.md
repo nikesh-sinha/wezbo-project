@@ -71,5 +71,8 @@ In this exam portal student can appear exam in the given time slot. If student t
 ![image](https://user-images.githubusercontent.com/86170386/182027539-9f74676e-55f2-41a3-9c6d-72e4533025f2.png)
 
 
+![image](https://user-images.githubusercontent.com/86170386/182028805-ecff418f-134a-4b1d-b6a0-d9a6a7f80fb5.png)
+
+![image](https://user-images.githubusercontent.com/86170386/182028843-99278c90-8934-4781-946c-958e50846627.png)
 
 

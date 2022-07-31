@@ -2,7 +2,7 @@
 problem statement 2- Build an app that demonstrates how low-code can improve operational processes in educational .
 
 
-# Solution
+## Solution
 Online Exam Management system is a web based application for technical evaluation. It’s not only replace paperwork but also releases the workload of faculty. 
 It fulfills the requirements of the institutes to conduct the exams online. Students can give exam without theneed of going to any physical destination. 
 They can view the result after completing the exam. Thus the purpose of the site is to provide a system that saves the efforts and time of faculty. In this exam portal student can appear exam in the given time slot.
@@ -12,20 +12,64 @@ students appearing for examination. The main objective of “Online Exam managem
 with the “interfaces that don’t scare it’s users!”.
 
 
-# Taxonomy
+## Taxonomy
 
-Users of this system are classified into three categories:
+### Users of this system are classified into three categories :
 1.Admin
 2.Faculty
 3.Students
 
-Admin
+#### Admin -
 Admins are responsible for management  of system users, faculty registration, add or discard student, create question paper and assign other faculty to 
 prepare questions.
 
-Faculty
+#### Faculty -
 Faculty are responsible for preparing questions and create test and also they can also choose particular students for particular exams.
 
-Students
+#### Students -
 Students are the candidates, appearing for the exam and they can view their results after finishing their exams.
+
+### Function Enabled - 
+
+* Login Page
+
+* Student Registration Page
+
+
+* Student Dashboard:
+Student Homepage, 
+Student Quiz list Page, 
+Question Answer Page
+
+* Faculty Page:
+Faculty Homepage,
+Student list Page,
+Quiz list Page,
+Quiz Records
+
+* Admin Page:
+Admin Homepage,
+Faculty List Page,
+Student List Page,
+Quiz List Page,
+Quiz Records
+
+* Automation of Planning and Scheduling
+
+* Assessment of Pattern Creation
+
+* Question Bank Management
+
+* Easy Approval
+
+### Functionalities Enabled
+
+In this exam portal student can appear exam in the given time slot. If student try to cheat in exam by changing the tab or by minimizing the tab then all the previous answer will be erased and answer will be shuffled. The answer sheet will be submitted automatically when the time gets over.
+
+### Screenshots
+
+![image](https://user-images.githubusercontent.com/86170386/182027539-9f74676e-55f2-41a3-9c6d-72e4533025f2.png)
+
+
+
 
